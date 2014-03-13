@@ -1,0 +1,10 @@
+
+/* BASIC RESET */
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input{margin:0; padding:0;}
+
+/* HTML ELEMENTS */
+body { font: 12px "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif; }
+h1 { padding:60px 0 0 40px; }
+p { padding:10px 40px; }
+a { color:#999; text-decoration:none; }
+a:hover { text-decoration:underline; }
