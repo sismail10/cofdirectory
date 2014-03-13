@@ -125,7 +125,7 @@ xmlhttp.send();
     
     <p>
   <?php
-					require("../connect.php");
+					require("http://spires2.cityoffrederick.com/employee/connect.php");
 					$table = "employees";
 					
 					$params = array();
